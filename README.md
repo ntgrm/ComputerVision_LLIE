@@ -38,7 +38,8 @@
 ![SSIM](https://github.com/ntgrm/ComputerVision_LLIE/blob/main/results/3_SSIM.png)
 
 ## Результаты
-• В данной реализации на обработку одного изображения уходит 1.44 с.  
+• Ссылка на решение в Google Colab: https://colab.research.google.com/drive/1Ogpzuazo-zKZp99o5TZHWhCGdOzfsIx3?usp=sharing  
+• В данной реализации на обработку одного изображения уходит 1.44 с  
 • Полученные значения метрик качества:
 
 |     PSNR     |      SSIM      |     LPIPS     |

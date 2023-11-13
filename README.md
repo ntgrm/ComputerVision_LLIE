@@ -49,10 +49,7 @@ https://colab.research.google.com/drive/1Ogpzuazo-zKZp99o5TZHWhCGdOzfsIx3?usp=sh
 |     :---:    |     :---:      |     :---:     |
 | 15.487       | 0.712          | 0.270         |
 
-
-
 • Примеры исходных и обработанных с помощью MIRNet изображений:
-
 
 ![24_25](https://github.com/ntgrm/ComputerVision_LLIE/blob/main/results/plot_results_24_25.JPG)
 ![46_47](https://github.com/ntgrm/ComputerVision_LLIE/blob/main/results/plot_results_46_47.JPG)
